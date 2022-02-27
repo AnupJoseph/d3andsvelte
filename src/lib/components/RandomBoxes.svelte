@@ -3,7 +3,6 @@
 
 	const data = range(0, 150);
 	const colors = scaleOrdinal().range(schemeSet2.slice(0, 6));
-	console.log(colors);
 </script>
 
 <svg width="900" height="150">
